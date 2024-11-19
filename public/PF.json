@@ -1,0 +1,105 @@
+{
+    "all_time_best_pf": [
+      {
+        "name": "Tim Duncan",
+        "ppg": 19.0,
+        "apg": 3.0,
+        "rpg": 10.8,
+        "spg": 0.7,
+        "championships": 5,
+        "mvps": 2,
+        "image": "https://i.pinimg.com/736x/aa/dd/3f/aadd3f6166300d6c5ca66c9af74c4b64.jpg"
+      },
+      {
+        "name": "Karl Malone",
+        "ppg": 25.0,
+        "apg": 3.6,
+        "rpg": 10.1,
+        "spg": 1.4,
+        "championships": 0,
+        "mvps": 2,
+        "image": "https://i.pinimg.com/736x/5b/a4/03/5ba403bea0b019d118bba208b19596f2.jpg"
+      },
+      {
+        "name": "Kevin Garnett",
+        "ppg": 17.8,
+        "apg": 3.7,
+        "rpg": 10.0,
+        "spg": 1.3,
+        "championships": 1,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/66/1c/b7/661cb79a1ec953083dcd84a18dc4501b.jpg"
+      },
+      {
+        "name": "Dirk Nowitzki",
+        "ppg": 20.7,
+        "apg": 2.4,
+        "rpg": 7.5,
+        "spg": 0.8,
+        "championships": 1,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/f0/9e/2f/f09e2fca7dc95f6d7d03b0172e02b8a4.jpg"
+      },
+      {
+        "name": "Charles Barkley",
+        "ppg": 22.1,
+        "apg": 3.9,
+        "rpg": 11.7,
+        "spg": 1.5,
+        "championships": 0,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/b5/33/2f/b5332f9f85e84cca01a23c8e1971b622.jpg"
+      },
+      {
+        "name": "Giannis Antetokounmpo",
+        "ppg": 22.6,
+        "apg": 4.7,
+        "rpg": 9.6,
+        "spg": 1.2,
+        "championships": 1,
+        "mvps": 2,
+        "image": "https://i.pinimg.com/736x/e1/98/2b/e1982b3141af7475f09c4da48013626a.jpg"
+      },
+      {
+        "name": "Bob Pettit",
+        "ppg": 26.4,
+        "apg": 3.0,
+        "rpg": 16.2,
+        "spg": 0.0,
+        "championships": 1,
+        "mvps": 2,
+        "image": "https://i.pinimg.com/736x/37/e3/bb/37e3bb92f56fd14f4c40bfebb94e64e4.jpg"
+      },
+      {
+        "name": "Elvin Hayes",
+        "ppg": 21.0,
+        "apg": 1.8,
+        "rpg": 12.5,
+        "spg": 1.0,
+        "championships": 1,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/e8/b5/d5/e8b5d50019de40ae6a3a35b2c2fa903b.jpg"
+      },
+      {
+        "name": "Dennis Rodman",
+        "ppg": 7.3,
+        "apg": 1.8,
+        "rpg": 13.1,
+        "spg": 0.7,
+        "championships": 5,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/17/6d/20/176d2070463282c8ec8cc6dab299012b.jpg"
+      },
+      {
+        "name": "Pau Gasol",
+        "ppg": 17.0,
+        "apg": 3.2,
+        "rpg": 9.2,
+        "spg": 0.5,
+        "championships": 2,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/42/f9/87/42f987d004fa8509f39c41416b17879e.jpg"
+      }
+    ]
+  }
+  

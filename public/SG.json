@@ -1,0 +1,184 @@
+{
+    "all_time_best_sg": [
+      {
+        "name": "Michael Jordan",
+        "image": "https://i.pinimg.com/736x/e3/d0/09/e3d0097284432d932d1fec93b0327129.jpg", 
+        "ppg": 30.1,
+        "apg": 5.3,
+        "rpg": 6.2,
+        "spg": 2.3,
+        "championships": 6,
+        "mvps": 5
+      },
+      {
+        "name": "Kobe Bryant",
+        "image": "https://i.pinimg.com/736x/4c/44/ef/4c44ef56238b124ed6103df0f788bbc8.jpg", 
+        "ppg": 25.0,
+        "apg": 4.7,
+        "rpg": 5.2,
+        "spg": 1.4,
+        "championships": 5,
+        "mvps": 1
+      },
+      {
+        "name": "Dwyane Wade",
+        "image": "https://i.pinimg.com/736x/fa/d9/d5/fad9d53bd581d1ad13fa204e81e23796.jpg", 
+        "ppg": 22.0,
+        "apg": 5.4,
+        "rpg": 4.7,
+        "spg": 1.5,
+        "championships": 3,
+        "mvps": 0
+      },
+      {
+        "name": "Allen Iverson",
+        "image": "https://i.pinimg.com/736x/82/c9/a7/82c9a7d73b20ec9ad9eb072f433d2548.jpg", 
+        "ppg": 26.7,
+        "apg": 6.2,
+        "rpg": 3.7,
+        "spg": 2.2,
+        "championships": 0,
+        "mvps": 1
+      },
+      {
+        "name": "James Harden",
+        "image": "https://i.pinimg.com/736x/eb/d1/b4/ebd1b47cb4f8bf2f132e4e3932602b4b.jpg", 
+        "ppg": 24.7,
+        "apg": 7.0,
+        "rpg": 5.6,
+        "spg": 1.6,
+        "championships": 0,
+        "mvps": 1
+      },
+      {
+        "name": "Clyde Drexler",
+        "image": "https://i.pinimg.com/736x/22/87/f5/2287f5c03794a6cfc89bc8631e6314cf.jpg", 
+        "ppg": 20.4,
+        "apg": 5.6,
+        "rpg": 6.1,
+        "spg": 2.0,
+        "championships": 1,
+        "mvps": 0
+      },
+      {
+        "name": "Ray Allen",
+        "image": "https://i.pinimg.com/736x/a3/53/44/a353441814e909cac90c518b9f259fa3.jpg", 
+        "ppg": 18.9,
+        "apg": 3.4,
+        "rpg": 4.1,
+        "spg": 1.1,
+        "championships": 2,
+        "mvps": 0
+      },
+      {
+        "name": "Reggie Miller",
+        "image": "https://i.pinimg.com/736x/85/15/77/851577d8c29707e91df5283b1e077409.jpg", 
+        "ppg": 18.2,
+        "apg": 3.0,
+        "rpg": 3.0,
+        "spg": 1.1,
+        "championships": 0,
+        "mvps": 0
+      },
+      {
+        "name": "George Gervin",
+        "image": "https://i.pinimg.com/736x/b0/20/6a/b0206a1f7c677eb683dc7ea564a032d9.jpg", 
+        "ppg": 25.1,
+        "apg": 2.6,
+        "rpg": 5.3,
+        "spg": 1.2,
+        "championships": 0,
+        "mvps": 0
+      },
+      {
+        "name": "Manu Ginobili",
+        "image": "https://i.pinimg.com/736x/cf/81/dc/cf81dc4cda429b92b820d1e8e6f0f962.jpg", 
+        "ppg": 13.3,
+        "apg": 3.8,
+        "rpg": 3.5,
+        "spg": 1.3,
+        "championships": 4,
+        "mvps": 0
+      },
+      {
+        "name": "Joe Dumars",
+        "image": "https://i.pinimg.com/736x/c0/a8/c4/c0a8c4bc4baf40b1cd4c729e4f1fa466.jpg", 
+        "ppg": 16.1,
+        "apg": 4.5,
+        "rpg": 2.2,
+        "spg": 0.9,
+        "championships": 2,
+        "mvps": 0
+      },
+      {
+        "name": "Mitch Richmond",
+        "image": "https://i.pinimg.com/736x/f2/df/79/f2df792abee88c2c7571940ae420abe7.jpg", 
+        "ppg": 21.0,
+        "apg": 3.5,
+        "rpg": 3.9,
+        "spg": 1.2,
+        "championships": 1,
+        "mvps": 0
+      },
+      {
+        "name": "Klay Thompson",
+        "image": "https://i.pinimg.com/736x/eb/57/69/eb57697be33c78247becb3fabaa1cdfe.jpg", 
+        "ppg": 19.5,
+        "apg": 2.3,
+        "rpg": 3.5,
+        "spg": 0.9,
+        "championships": 4,
+        "mvps": 0
+      },
+      {
+        "name": "Tracy McGrady",
+        "image": "https://i.pinimg.com/736x/67/b4/b7/67b4b798ff6000a62ec077ef16b8b392.jpg", 
+        "ppg": 19.6,
+        "apg": 4.4,
+        "rpg": 5.6,
+        "spg": 1.2,
+        "championships": 0,
+        "mvps": 0
+      },
+      {
+        "name": "Pete Maravich",
+        "image": "https://i.pinimg.com/736x/1e/d6/d8/1ed6d8ce802680941064a19b611cf432.jpg", 
+        "ppg": 24.2,
+        "apg": 5.4,
+        "rpg": 4.2,
+        "spg": 1.4,
+        "championships": 0,
+        "mvps": 0
+      },
+      {
+        "name": "Jerry West",
+        "image": "https://i.pinimg.com/736x/ee/2d/05/ee2d05bf96ef632a18f499ec04e85a2f.jpg", 
+        "ppg": 27.0,
+        "apg": 6.7,
+        "rpg": 5.8,
+        "spg": 2.6,
+        "championships": 1,
+        "mvps": 0
+      },
+      {
+        "name": "David Thompson",
+        "image": "https://i.pinimg.com/736x/ad/83/ad/ad83ad3c1063170aa8f1fc742bff0220.jpg", 
+        "ppg": 22.7,
+        "apg": 3.3,
+        "rpg": 4.1,
+        "spg": 1.0,
+        "championships": 0,
+        "mvps": 0
+      },
+      {
+        "name": "Sam Jones",
+        "image": "https://i.pinimg.com/736x/c0/9a/6f/c09a6f7c6324d02a14d7b8933997a408.jpg", 
+        "ppg": 17.7,
+        "apg": 2.5,
+        "rpg": 4.9,
+        "spg": 1.3,
+        "championships": 10,
+        "mvps": 0
+      }
+    ]
+  }

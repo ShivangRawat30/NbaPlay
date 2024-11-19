@@ -1,0 +1,95 @@
+{
+    "all_time_best_sf": [
+      {
+        "name": "LeBron James",
+        "ppg": 27.2,
+        "apg": 7.3,
+        "rpg": 7.5,
+        "spg": 1.6,
+        "championships": 4,
+        "mvps": 4,
+        "image": "https://i.pinimg.com/736x/fe/5c/5d/fe5c5df8042d35d0d52c075c6b9f51a5.jpg"
+      },
+      {
+        "name": "Larry Bird",
+        "ppg": 24.3,
+        "apg": 6.3,
+        "rpg": 10.0,
+        "spg": 1.7,
+        "championships": 3,
+        "mvps": 3,
+        "image": "https://i.pinimg.com/736x/87/ba/f8/87baf8d46a60be46b0760c86f6d5efa3.jpg"
+      },
+      {
+        "name": "Kevin Durant",
+        "ppg": 27.3,
+        "apg": 4.3,
+        "rpg": 7.1,
+        "spg": 1.1,
+        "championships": 2,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/ed/0b/4e/ed0b4edf4b3ea3ef97d7ca0d9331909c.jpg"
+      },
+      {
+        "name": "Julius Erving",
+        "ppg": 24.2,
+        "apg": 4.2,
+        "rpg": 8.5,
+        "spg": 2.0,
+        "championships": 1,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/88/53/ac/8853ac7575e9d859f64c96a655cdaf2a.jpg"
+      },
+      {
+        "name": "Kawhi Leonard",
+        "ppg": 19.6,
+        "apg": 2.9,
+        "rpg": 6.4,
+        "spg": 1.8,
+        "championships": 2,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/b3/c0/20/b3c02099735fdb35d6eab8f712d4bfdd.jpg"
+      },
+      {
+        "name": "Scottie Pippen",
+        "ppg": 16.1,
+        "apg": 5.2,
+        "rpg": 6.4,
+        "spg": 2.0,
+        "championships": 6,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/94/bd/8a/94bd8abbd1b2ebbb1499ac51cd4a1a5d.jpg"
+      },
+      {
+        "name": "Elgin Baylor",
+        "ppg": 27.4,
+        "apg": 4.3,
+        "rpg": 13.5,
+        "spg": 0.0,
+        "championships": 0,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/6f/40/0d/6f400d4eff8c12fc34de7c46e642e33d.jpg"
+      },
+      {
+        "name": "John Havlicek",
+        "ppg": 20.8,
+        "apg": 4.8,
+        "rpg": 6.3,
+        "spg": 1.2,
+        "championships": 8,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/97/85/63/978563bd780feba63d9c59dd9ef62b73.jpg"
+      },
+      {
+        "name": "Paul Pierce",
+        "ppg": 19.7,
+        "apg": 3.5,
+        "rpg": 5.6,
+        "spg": 1.3,
+        "championships": 1,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/7a/93/05/7a930597e73074c86992128ea43061ca.jpg"
+      }
+    ]
+  }
+  

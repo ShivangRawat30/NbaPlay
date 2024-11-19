@@ -1,0 +1,105 @@
+{
+    "all_time_best_centers": [
+      {
+        "name": "Kareem Abdul-Jabbar",
+        "ppg": 24.6,
+        "apg": 3.6,
+        "rpg": 11.2,
+        "bpg": 2.6,
+        "championships": 6,
+        "mvps": 6,
+        "image": "https://i.pinimg.com/736x/ae/aa/7a/aeaa7ab3d6b372f6094f82f2642b3b2e.jpg"
+      },
+      {
+        "name": "Wilt Chamberlain",
+        "ppg": 30.1,
+        "apg": 4.4,
+        "rpg": 22.9,
+        "bpg": 8.8,
+        "championships": 2,
+        "mvps": 4,
+        "image": "https://i.pinimg.com/736x/a3/b1/14/a3b1144e23270ef56d0b5a1e5c5fec1c.jpg"
+      },
+      {
+        "name": "Bill Russell",
+        "ppg": 15.1,
+        "apg": 4.3,
+        "rpg": 22.5,
+        "bpg": 4.7,
+        "championships": 11,
+        "mvps": 5,
+        "image": "https://i.pinimg.com/736x/98/ea/5b/98ea5b3e08928d0f6bc25dd4da4adb1e.jpg"
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "ppg": 23.7,
+        "apg": 2.5,
+        "rpg": 10.9,
+        "bpg": 2.3,
+        "championships": 4,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/e0/ca/bd/e0cabd72903428807182f5d96bf66816.jpg"
+      },
+      {
+        "name": "Hakeem Olajuwon",
+        "ppg": 21.8,
+        "apg": 2.5,
+        "rpg": 11.1,
+        "bpg": 3.1,
+        "championships": 2,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/d3/13/b5/d313b508ad55d41e1d2333ba7adbfe52.jpg"
+      },
+      {
+        "name": "David Robinson",
+        "ppg": 21.1,
+        "apg": 2.5,
+        "rpg": 10.6,
+        "bpg": 3.0,
+        "championships": 2,
+        "mvps": 1,
+        "image": "https://i.pinimg.com/736x/19/31/34/1931346eaab37ecd1d03a95c823ee0fb.jpg"
+      },
+      {
+        "name": "Patrick Ewing",
+        "ppg": 21.0,
+        "apg": 2.0,
+        "rpg": 9.8,
+        "bpg": 2.4,
+        "championships": 0,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/3f/49/b7/3f49b72b8b239388405c9ebbe6f8b241.jpg"
+      },
+      {
+        "name": "Moses Malone",
+        "ppg": 20.3,
+        "apg": 1.3,
+        "rpg": 12.3,
+        "bpg": 1.3,
+        "championships": 1,
+        "mvps": 3,
+        "image": "https://i.pinimg.com/736x/e7/b7/e0/e7b7e09c1b7050385a02dcf2cbd108ff.jpg"
+      },
+      {
+        "name": "Dikembe Mutombo",
+        "ppg": 9.8,
+        "apg": 0.4,
+        "rpg": 10.3,
+        "bpg": 2.8,
+        "championships": 0,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/54/dc/84/54dc84b9541f1bfa9a00df5bcb015f39.jpg"
+      },
+      {
+        "name": "Alonzo Mourning",
+        "ppg": 17.1,
+        "apg": 1.1,
+        "rpg": 8.5,
+        "bpg": 2.8,
+        "championships": 1,
+        "mvps": 0,
+        "image": "https://i.pinimg.com/736x/67/1f/b7/671fb7c6b03c09b5d2b6ed3049bcf342.jpg"
+      }
+    ]
+  }
+  
